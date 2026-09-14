@@ -55,7 +55,7 @@ A PHP and MySQL library management system for managing books, members, book issu
 
 **Technologies:** PHP • MySQL • HTML • CSS • JavaScript
 
-🔗 Live Demo — Coming Soon
+🔗 [Live Demo](https://library-management-demo.freedev.app/)
 
 ## 🎯 Currently Building
 
