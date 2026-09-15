@@ -44,8 +44,8 @@ I enjoy turning ideas into functional, user-friendly software and continuously i
 ### 🎓 Student Management System
 
 <p align="center">
-<a href="YOUR_STUDENT_REPOSITORY_LINK">
-<img src="YOUR_STUDENT_SCREENSHOT_LINK" width="90%">
+<a href="https://github.com/WILBER02/student-management-system">
+<img src="https://github.com/WILBER02/student-management-system/raw/2dd4cea6a2effa56039e3f5ddc2c5fbfd899e0c3/screenshots/student-management-system.pngK" width="90%">
 </a>
 </p>
 
@@ -55,7 +55,7 @@ A PHP and MySQL web application for managing student records with complete CRUD 
 
 🔗 [Live Demo](https://student-management-demo.kesug.com/)
 
-🔗 [View Source Code](YOUR_STUDENT_REPOSITORY_LINK)
+🔗 [View Source Code](https://github.com/WILBER02/student-management-system)
 
 ---
 
