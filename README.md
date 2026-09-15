@@ -45,7 +45,7 @@ I enjoy turning ideas into functional, user-friendly software and continuously i
 
 <p align="center">
 <a href="https://github.com/WILBER02/student-management-system">
-<img src="https://github.com/WILBER02/student-management-system/raw/2dd4cea6a2effa56039e3f5ddc2c5fbfd899e0c3/screenshots/student-management-system.pngK" width="90%">
+<img src="https://github.com/WILBER02/student-management-system/raw/2dd4cea6a2effa56039e3f5ddc2c5fbfd899e0c3/screenshots/student-management-system.png" width="90%">
 </a>
 </p>
 
@@ -62,8 +62,8 @@ A PHP and MySQL web application for managing student records with complete CRUD 
 ### 📚 Library Management System
 
 <p align="center">
-<a href="YOUR_LIBRARY_REPOSITORY_LINK">
-<img src="YOUR_LIBRARY_SCREENSHOT_LINK" width="90%">
+<a href="https://github.com/WILBER02/library-management-system">
+<img src="https://github.com/WILBER02/library-management-system/raw/3038b0f156debd6059306f5704e75ade886f0b48/screenshots/Screenshot%20%2819%29.png" width="90%">
 </a>
 </p>
 
