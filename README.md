@@ -39,41 +39,26 @@ I enjoy turning ideas into functional, user-friendly software and continuously i
 * XAMPP
 * MySQL/phpMyAdmin
 
-## 🚀 Featured Projects
+🚀 Featured Projects
+🎓 Student Management System
 
-### 🎓 Student Management System
-
-<p align="center">
-<a href="https://github.com/WILBER02/student-management-system">
-<img src="https://github.com/WILBER02/student-management-system/raw/2dd4cea6a2effa56039e3f5ddc2c5fbfd899e0c3/screenshots/student-management-system.png" width="90%">
-</a>
-</p>
+<a href="https://github.com/WILBER02/student-management-system"> <img src="https://github.com/WILBER02/student-management-system/raw/2dd4cea6a2effa56039e3f5ddc2c5fbfd899e0c3/screenshots/student-management-system.png" width="100%"> </a>
 
 A PHP and MySQL web application for managing student records with complete CRUD functionality.
 
-**Technologies:** PHP • MySQL • HTML • CSS • JavaScript
+Technologies: PHP • MySQL • HTML • CSS • JavaScript
 
-🔗 [Live Demo](https://student-management-demo.kesug.com/)
+🔗 🌐 Live Demo | 🔒 Source Code Available on Request
 
-🔗 [View Source Code](https://github.com/WILBER02/student-management-system)
+📚 Library Management System
 
----
-
-### 📚 Library Management System
-
-<p align="center">
-<a href="https://github.com/WILBER02/library-management-system">
-<img src="https://github.com/WILBER02/library-management-system/raw/3038b0f156debd6059306f5704e75ade886f0b48/screenshots/Screenshot%20%2819%29.png" width="90%">
-</a>
-</p>
+<a href="https://github.com/WILBER02/library-management-system"> <img src="https://github.com/WILBER02/library-management-system/raw/3038b0f156debd6059306f5704e75ade886f0b48/screenshots/Screenshot%20%2819%29.png" width="100%"> </a>
 
 A PHP and MySQL library management system for managing books, members, book issuing, returns, and library transactions.
 
-**Technologies:** PHP • MySQL • HTML • CSS • JavaScript
+Technologies: PHP • MySQL • HTML • CSS • JavaScript
 
-🔗 [Live Demo](https://library-management-demo.freedev.app/)
-
-🔗 [View Source Code](YOUR_LIBRARY_REPOSITORY_LINK)
+🔗 🌐 Live Demo | 🔒 Source Code Available on Request
 
 ## 🎯 Currently Building
 
@@ -84,9 +69,12 @@ A PHP and MySQL library management system for managing books, members, book issu
 
 ## 📫 Connect With Me
 
+* 💬 [WhatsApp Me](https://wa.me/254718682769)
 * 💼 [LinkedIn](https://www.linkedin.com/in/wilberforce-muhuyi-49762a39/)
 * 🌐 [Portfolio](https://wilberforcedevportfolio.netlify.app/)
 * 📧 [wilberforcemuhuyi28@gmail.com](mailto:wilberforcemuhuyi28@gmail.com)
+* 💻 [GitHub](https://github.com/WILBER02)
+  
 
 ---
 
